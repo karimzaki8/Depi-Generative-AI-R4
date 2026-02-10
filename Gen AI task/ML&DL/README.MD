@@ -1,4 +1,6 @@
-ML_TASK 
+ML_TASK
+
+
 Project Overview
 In this project, I developed a machine learning pipeline to classify members of the US House of Representatives as either Democrat or Republican based on their voting records from the 1984 98th Congress. The dataset presented several real-world challenges, including non-standard labeling, significant missing data (abstentions), and numeric noise.
 
